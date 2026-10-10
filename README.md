@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ama%20Nawodya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ama%20Tharushi%20Nawodya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B72CF&center=true&vCenter=true&width=550&lines=Hello%2C+Welcome+to+my+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Learning+Java+and+Web+Development+%E2%9C%A8;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing animation" />
 
